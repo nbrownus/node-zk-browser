@@ -2,9 +2,9 @@
   "name": "node-zk-browser",
   "version": "0.0.2",
   "dependencies": {
-    "ejs": ">= 0.7.2",
-    "express": ">=3.0",
-    "zookeeper":">=3.4.1-4",
-    "express-namespace":">=0.1.1"
+    "ejs": "0.7.x",
+    "express": "3.x",
+    "zookeeper":"3.x",
+    "express-namespace":"0.1.x"
   }
 }
